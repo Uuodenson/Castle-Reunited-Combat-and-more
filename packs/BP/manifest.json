@@ -1,0 +1,32 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Castle Reunited | S7riel BP",
+    "description": "This packs adds the combat system and other elements to the game",
+    "uuid": "2bf321b2-f3b1-46dd-b571-1067df8100f0",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "_",
+      "uuid": "9eb48bb7-72ff-4ad6-b214-debaadd6184f",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "30a414da-8a20-4af1-ba45-51383b8a5456",
+      "version": [1, 0, 0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.14.0"
+    }
+  ],
+  "metadata": {
+    "authors": ["Kevin"],
+    "url": "https://www.youtube.com/@jumper_lion"
+  }
+}

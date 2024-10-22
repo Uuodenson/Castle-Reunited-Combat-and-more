@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Castle Reunited | S7riel RP",
+    "description": "This packs adds the combat system and other elements to the game",
+    "uuid": "30a414da-8a20-4af1-ba45-51383b8a5456",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "_",
+      "uuid": "d5e59284-7b5f-4734-9e1a-304d52691f0d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Kevin"],
+    "url": "https://www.youtube.com/@jumper_lion"
+  }
+}
